@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PoltawskiNowy-VariableFont_wght.ttf",
+      "sha1": "d70e611c934b5e432344cc6475068732cd3dad69"
+    },
+    {
+      "path": "assets/fonts/Slabo27px-Regular.ttf",
+      "sha1": "8835e3c0cc08e9d167f9b2bf8d3783788f12c3ae"
+    }
+  ]
+}
